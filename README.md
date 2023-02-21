@@ -35,4 +35,6 @@ This table contains an overview of all created and tracked AIPs. It should be up
 | AIP 11 | Tokens as Objects |
 | AIP 12 | Multisig Accounts v2 |
 | AIP 13 | Coin Standard Improvements |
-| ... | ... |
+| AIP 14 | Update vesting contract |
+| AIP 15 | Token Framework Reserved Properties |
+| AIP 16 | New cryptography natives for hashing | 
